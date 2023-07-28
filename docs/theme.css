@@ -1,5 +1,5 @@
 :root {
-  --black: #3f3f3f;
-  --white: #fbfaf8;
-  --grey: #aaaaaa;
+  --black: 170, 170, 170;
+  --white: 251, 250, 248;
+  --grey: 160, 160, 160;
 }
